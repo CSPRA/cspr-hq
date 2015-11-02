@@ -13,6 +13,6 @@ password: password
 
 * For Staff/Admin App
 ```
-email: admin@gmail.com
+email: staff1@gmail.com
 password: password
 ```
